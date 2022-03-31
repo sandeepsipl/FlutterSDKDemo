@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - Smartech-iOS-SDK (3.1.10)
+  - smartech_flutter_plugin (2.0.0):
+    - Flutter
+    - Smartech-iOS-SDK (~> 3.1.10)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - smartech_flutter_plugin (from `.symlinks/plugins/smartech_flutter_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Smartech-iOS-SDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  smartech_flutter_plugin:
+    :path: ".symlinks/plugins/smartech_flutter_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  Smartech-iOS-SDK: 7df3b4ebee2bf815437ab4c889c2e35c66b799b5
+  smartech_flutter_plugin: a1df666a0aaaa9e94ca469625b109d2f359b67dd
+
+PODFILE CHECKSUM: 4e8f8b2be68aeea4c0d5beb6ff1e79fface1d048
+
+COCOAPODS: 1.11.3
